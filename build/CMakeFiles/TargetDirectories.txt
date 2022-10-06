@@ -1,0 +1,3 @@
+/home/kali/Desktop/oop_labs/lab1.1/build/CMakeFiles/lab1.dir
+/home/kali/Desktop/oop_labs/lab1.1/build/CMakeFiles/edit_cache.dir
+/home/kali/Desktop/oop_labs/lab1.1/build/CMakeFiles/rebuild_cache.dir
